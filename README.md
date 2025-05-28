@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a63fb60-4200-45f3-9d03-4f34906edba7)# Lev Vedrov
+# Lev Vedrov
 
 Undergraduate in **Computer Science and Engineering** at **Sungkyunkwan University (SKKU)**  
 Passionate about **AI**, **software development**, **cybersecurity** and **embedded systems**
