@@ -1,4 +1,4 @@
-# Lev Vedrov
+![image](https://github.com/user-attachments/assets/7a63fb60-4200-45f3-9d03-4f34906edba7)# Lev Vedrov
 
 Undergraduate in **Computer Science and Engineering** at **Sungkyunkwan University (SKKU)**  
 Passionate about **AI**, **software development**, **cybersecurity** and **embedded systems**
@@ -22,6 +22,8 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 - Co-developed a C# tool for system reliability simulations
 - Used in university workflows and technical modeling
 - *International Patent RU2023617323*
+  ![image](https://github.com/user-attachments/assets/69f62ec0-9101-4537-9a67-609160ca9466)
+
 
 
 ### - Laptop Online Reservation System (2025)
@@ -35,9 +37,9 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 
 - [1st place] **The 2nd International Competition
 "NewScience BEST RESEARCH WORK 2025"**: Face and Emotion Recognition System Based on Artificial Intelligence: Algorithm
-Analysis and Implementation on Raspberry Pi Using Python.
+Analysis and Implementation on Raspberry Pi Using Python. **[ISBN 978-5-00215-668-9]**
 - [1st place] **12th International Scientific and Practical
-Conference "Scientific Research 2024"**: AI-based sorting algorithm analysis [ISBN 978-5-00236-507-4] 
+Conference "Scientific Research 2024"**: AI-based sorting algorithm analysis. **[ISBN 978-5-00236-507-4]**
 - [Honorable Mention] **The 22rd International Scientific & Practical
 Conference of Young Scientists and Postgraduates (2022)**: Sensor-based C++ system for real-time monitoring
 - [1st place] **The 23rd International Scientific & Practical
