@@ -27,7 +27,7 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 ### - Laptop Online Reservation System (2025)
 - Developed for **Cambridge International School** campus in St.Petersburg
 - Python + SQL full-stack system with real-time tracking and user auth
-- 🛠Currently deployed for school-wide use
+- Currently deployed for school-wide use
 
 ---
 
