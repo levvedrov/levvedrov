@@ -13,17 +13,17 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 
 ## Key Activities
 
-### - Hyundai WIA Software Tester Mentorship Program (2025)
+### Hyundai WIA Software Tester Mentorship Program (2025)
 - Wrote Python and C++ scripts to test CNC control systems
 - Participated in software development for automation projects in Almaty, Kazakhstan
 - Gained hands-on experience in industrial-level software testing
 
-### - Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation** (2023)
+### Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation** (2023)
 - Co-developed a C# tool for system reliability simulations
 - Used in university workflows and technical modeling
 - *International Patent RU2023617323*
 
-### - Laptop Online Reservation System (2025)
+### Laptop Online Reservation System (2025)
 - Developed for **Cambridge International School** campus in St.Petersburg
 - Python + SQL full-stack system with real-time tracking and user auth
 - Currently deployed for school-wide use
