@@ -13,18 +13,18 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 
 ## 🧠 Key Projects
 
-### 🔹 Hyundai WIA Mentorship Program
+### 🔹 Hyundai WIA Mentorship Program (2025)
 - Wrote Python and C++ scripts to test CNC control systems
 - Participated in automation projects in Almaty, Kazakhstan
 - Gained hands-on experience in industrial-level software testing
 
-### 🔹 Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation**
+### 🔹 Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation** (2023)
 - Co-developed a C# tool for system reliability simulations
 - Used in university workflows and technical modeling
 - *International Patent RU2023617323*
 
 
-### 🔹 Laptop Online Reservation System
+### 🔹 Laptop Online Reservation System (2025)
 - Developed for **Cambridge International School** campus in St.Petersburg
 - Python + SQL full-stack system with real-time tracking and user auth
 - 🛠Currently deployed for school-wide use
@@ -39,12 +39,12 @@ Analysis and Implementation on Raspberry Pi Using Python.
 - 🥇 **12th International Scientific and Practical
 Conference "Scientific Research 2024"**: AI-based sorting algorithm analysis
 - 🏅 **The 22rd International Scientific & Practical
-Conference of Young Scientists and Postgraduates**: Sensor-based C++ system for real-time monitoring
+Conference of Young Scientists and Postgraduates (2022)**: Sensor-based C++ system for real-time monitoring
 - 🥇 **The 23rd International Scientific & Practical
-Conference of Young Scientists And Postgraduates**: Complex systems with recovery models
+Conference of Young Scientists And Postgraduates (2023)**: Complex systems with recovery models
 - 🥈 **International Competition of Scientific Papers by
-Young Scientists**: Model validation in AnyLogic
-- 🥇 **Russian Olympiads**: Winner in Computer Science, Physics, and Math
+Young Scientists (2021)**: Model validation in AnyLogic
+- 🥇 **Russian Olympiads (2021, 2020)**: 1st Stage Winner in Computer Science, Physics, and Math
 
 ---
 
