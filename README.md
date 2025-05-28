@@ -18,7 +18,7 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 - Participated in automation projects in Almaty, Kazakhstan
 - Gained hands-on experience in industrial-level software testing
 
-### 🔹 Patented Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation**
+### 🔹 Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation**
 - Co-developed a C# tool for system reliability simulations
 - Used in university workflows and technical modeling
 - 📄 *Patent RU2023617323*
