@@ -21,13 +21,13 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 ### 🔹 Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation**
 - Co-developed a C# tool for system reliability simulations
 - Used in university workflows and technical modeling
-- 📄 *Patent RU2023617323*
+- *International Patent RU2023617323*
 
 
-### 🔹 Laptop Reservation Web System
-- Developed for **Cambridge International School**
+### 🔹 Laptop Online Reservation System
+- Developed for **Cambridge International School** campus in St.Petersburg
 - Python + SQL full-stack system with real-time tracking and user auth
-- 🛠️ Currently deployed for school-wide use
+- 🛠Currently deployed for school-wide use
 
 ---
 
