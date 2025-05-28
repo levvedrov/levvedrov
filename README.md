@@ -34,13 +34,13 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 
 - [1st place] **The 2nd International Competition
 "NewScience BEST RESEARCH WORK 2025"**: Face and Emotion Recognition System Based on Artificial Intelligence: Algorithm
-Analysis and Implementation on Raspberry Pi Using Python. **[ISBN 978-5-00215-668-9]**RU
+Analysis and Implementation on Raspberry Pi Using Python. **[ISBN 978-5-00215-668-9]** RU
 - [1st place] **12th International Scientific and Practical
-Conference "Scientific Research 2024"**: AI-based sorting algorithm analysis. **[ISBN: 978-5-00236-507-4]**RU
+Conference "Scientific Research 2024"**: AI-based sorting algorithm analysis. **[ISBN: 978-5-00236-507-4]** RU
 - [Honorable Mention] **The 22rd International Scientific & Practical
-Conference of Young Scientists and Postgraduates (2022)**: Sensor-based C++ system for real-time monitoring **[ISBN: 978-5-00110-285-4]**RU
+Conference of Young Scientists and Postgraduates (2022)**: Sensor-based C++ system for real-time monitoring **[ISBN: 978-5-00110-285-4]** RU
 - [1st place] **The 23rd International Scientific & Practical
-Conference of Young Scientists And Postgraduates (2023)**: Complex systems with recovery models **[ISBN: 978-5-00110-341-7]**RU
+Conference of Young Scientists And Postgraduates (2023)**: Complex systems with recovery models **[ISBN: 978-5-00110-341-7]** RU
 - [2nd Degree Medal] **International Competition of Scientific Papers by
 Young Scientists (2021)**: Model validation in AnyLogic
 - **Russian Olympiads (2021, 2020)**: 1st Stage Winner in Computer Science, Physics, and Math
