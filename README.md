@@ -38,12 +38,12 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 Analysis and Implementation on Raspberry Pi Using Python.
 - 🥇 **12th International Scientific and Practical
 Conference "Scientific Research 2024"**: AI-based sorting algorithm analysis
+- 🏅 **The 22rd International Scientific & Practical
+Conference of Young Scientists and Postgraduates**: Sensor-based C++ system for real-time monitoring
 - 🥇 **The 23rd International Scientific & Practical
 Conference of Young Scientists And Postgraduates**: Complex systems with recovery models
 - 🥈 **International Competition of Scientific Papers by
 Young Scientists**: Model validation in AnyLogic
-- 🏅 **The 22rd International Scientific & Practical
-Conference of Young Scientists and Postgraduates**: Sensor-based C++ system for real-time monitoring
 - 🥇 **Russian Olympiads**: Winner in Computer Science, Physics, and Math
 
 ---
