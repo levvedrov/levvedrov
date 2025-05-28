@@ -13,25 +13,21 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 
 ## 🧠 Key Projects
 
-### 🔹 AI-Based Face & Emotion Recognition
-- Implemented real-time recognition on **Raspberry Pi** using **Python** and OpenCV
-- Optimized detection algorithms for low-power hardware
-- 🏆 *1st Place*, “NewScience BEST RESEARCH WORK 2025”
+### 🔹 Hyundai WIA Mentorship Program
+- Wrote Python and C++ scripts to test CNC control systems
+- Participated in automation projects in Almaty, Kazakhstan
+- Gained hands-on experience in industrial-level software testing
+
+### 🔹 Patented Reliability Assessment Software for **Saint Petersburg State University of Aerospace Instrumentation**
+- Co-developed a C# tool for system reliability simulations
+- Used in university workflows and technical modeling
+- 📄 *Patent RU2023617323*
+
 
 ### 🔹 Laptop Reservation Web System
 - Developed for **Cambridge International School**
 - Python + SQL full-stack system with real-time tracking and user auth
 - 🛠️ Currently deployed for school-wide use
-
-### 🔹 Patented Reliability Assessment Software
-- Co-developed a C# tool for system reliability simulations
-- Used in university workflows and technical modeling
-- 📄 *Patent RU2023617323*
-
-### 🔹 Hyundai WIA Mentorship Program
-- Wrote Python and C++ scripts to test CNC control systems
-- Participated in automation projects in Almaty, Kazakhstan
-- Gained hands-on experience in industrial-level software testing
 
 ---
 
