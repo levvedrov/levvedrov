@@ -51,24 +51,20 @@ Young Scientists (2021)**: Model validation in AnyLogic
 ## 💻 Tech Stack
 
 **Languages**  
-`Python`, `C++`, `C`, `C#`, `HTML/CSS`, `SQL`, `Java`, `PowerShell`
+`Python`, `C++`, `C`, `C#`, `HTML/CSS`, `SQL`
 
 **Domains**  
-AI/ML · Embedded Systems · Web Development · Cybersecurity · Simulations
+AI/ML · Software Development · Web Development · Cybersecurity · Embedded Systems · Simulations
 
 **Tools & Frameworks**  
-Arduino · Raspberry Pi · Git · Flask · Django · AnyLogic · VS Code · Figma
+ Raspberry Pi · OpenCV · Flask · Django · AnyLogic · Numpy · Pytecplot · Pillow · Arduino 
 
 ---
 
 ## 🌍 Volunteering
 
-- **Hope Relief & Orphans Children Village** *(Uganda)*  
+- 2019 **Hope Relief & Orphans Children Village** *(Uganda)*  
   Designed a website to support a local charity, enhancing accessibility and online presence.
-
-- **Cambridge International School** *(St. Petersburg)*  
-  Created a full-featured booking system for managing IT resources across departments.
-
 ---
 
 ## 📚 Education
