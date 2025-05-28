@@ -81,9 +81,9 @@ Arduino · Raspberry Pi · Git · Flask · Django · AnyLogic · VS Code · Figm
 
 ## 🌐 Let's Connect
 
-- 📧 Email: [levvvedrov@gmail.com](mailto:levvvedrov@gmail.com)  
+- 📧 Email: [levvvedrov@g.skku.edu](mailto:levvvedrov@g.skku.edu)  
 - 💬 Telegram: [@levvedrov](https://t.me/levvedrov)  
-- 🏙️ Location: South Korea / Russia  
+- 🏙️ Location: Suwon, South Korea / St.Petersburg, Russia  
 - 🔗 LinkedIn: *[Add link]*  
 - 📂 CV & Projects: [GitHub Portfolio](https://github.com/LevVedrov)
 
