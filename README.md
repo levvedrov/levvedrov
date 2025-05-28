@@ -13,7 +13,7 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 
 ## Key Activities
 
-### - Hyundai WIA Mentorship Program (2025)
+### - Hyundai WIA Software Tester Mentorship Program (2025)
 - Wrote Python and C++ scripts to test CNC control systems
 - Participated in software development for automation projects in Almaty, Kazakhstan
 - Gained hands-on experience in industrial-level software testing
