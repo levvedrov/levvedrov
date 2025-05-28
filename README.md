@@ -22,6 +22,7 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 - Co-developed a C# tool for system reliability simulations
 - Used in university workflows and technical modeling
 - *International Patent RU2023617323*
+  
 ![image](https://github.com/user-attachments/assets/166ba79a-07c2-4e92-acd8-78393b269357)
 
 
