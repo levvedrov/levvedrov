@@ -64,9 +64,6 @@ I am a computer science undergraduate with a deep interest in artificial intelli
 **Domains**  
 AI/ML · Software Development · Web Development · Cybersecurity · Embedded Systems · Simulations
 
-**Tools & Frameworks**  
- Raspberry Pi · OpenCV · Flask · Django · AnyLogic · Numpy · Pytecplot · Pillow · Arduino 
-
 ---
 
 ## Volunteering
