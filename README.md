@@ -1,7 +1,7 @@
 # Lev Vedrov
 
 Undergraduate in **Computer Science and Engineering** at **Sungkyunkwan University (SKKU)**  
-Passionate about **AI**, **software development**, **cybersecurity** and **robotics**
+Passionate about **AI**, **robotics**, **software development** and **cybersecurity** 
 
 ---
 
