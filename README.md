@@ -7,7 +7,7 @@ Passionate about **AI**, **robotics**, **software development** and **cybersecur
 
 ## About Me
 
-I am a computer science undergraduate with a deep interest in artificial intelligence, software development, system-level programming, and applied computing. With hands-on experience in real-world projects — from industrial automation to full-stack web platforms and applications — I strive to solve meaningful problems using code. My journey began at age 10 with C/C++, and it has led me to develop solutions for educational systems, intelligent devices, and research-based AI models.
+I am a computer science undergraduate with a deep interest in artificial intelligence, software development, system-level programming, and applied computing at robotics. With hands-on experience in real-world projects — from industrial automation to full-stack web platforms and applications — I strive to solve meaningful problems using code. My journey began at age 10 with C/C++, and it has led me to develop solutions for educational systems, intelligent devices, and research-based AI models.
 
 ---
 
